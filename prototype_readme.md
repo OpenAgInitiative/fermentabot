@@ -17,3 +17,4 @@ Fermentation computer prototype based off of Arielle's proof of concept
 ## Prototype v2 Ideas
 - Clean up the electronics mounting either by creating a custom PCB that is optimal for brain box and functional for fermentation computer or mount all the circuit boards with standoffs to top of lid. Consider having an acrylic "interface plate"
 - Add more features as desired. Obvious ones include cooling and co2 dosing. I wonder if we could just water cool around the container. Similar to the heating. The water chiller will likely be "tumored" onto the back of the machine like the humidifier and co2 tank.
+-a heated and cooled water jacket would be very slick and is what they use for high-end wine fermenters

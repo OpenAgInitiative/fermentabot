@@ -8,6 +8,6 @@ in the prototype stage.
 **v1.0 Prototype: Current Version**
 <br/>[Prototype README](prototype_readme.md)
 <br/>[Prototype Bill of Materials](bill_of_materials.csv)
-<br/>** v0 Proof of Concept: $165 non-data-collecting version**
+<br/>**v0 Proof of Concept: $165 non-data-collecting version**
 <br/>[Proof of Concept README](proof_of_concept_readme.md)
 <br/>[Proof of Concept Bill of Materials](proof_of_concept_bom.csv)

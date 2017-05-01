@@ -1,4 +1,4 @@
-# simple-fermentation-box
+# fermentabot
 This is a food computer designed for fermentation. The development is currently
 in the prototype stage.
 

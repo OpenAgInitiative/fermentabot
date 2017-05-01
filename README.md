@@ -2,6 +2,8 @@
 This is a food computer designed for fermentation. The development is currently
 in the prototype stage.
 
+![](/IMG_1137.jpg)
+
 ## Repo Contents
 1. [Prototype README](prototype_readme.md)
 2. [Prototype Bill of Materials](bill_of_materials.csv)

@@ -1,6 +1,6 @@
 # fermentabot
 This is a food computer designed for fermentation. The development is currently
-in the prototype stage.
+in the prototype stage. It is a mash-up of the [simple fermentation box](https://github.com/ariellejohnson/simple-fermentation-box) and the OpenAg [brain box](https://github.com/OpenAgInitiative/openag_brain_box)
 
 ![](/IMG_1137.jpg)
 

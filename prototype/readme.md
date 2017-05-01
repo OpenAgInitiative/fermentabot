@@ -1,13 +1,13 @@
 # Prototype Wiring Instructions
 
 ## Connectorize the AM2315 Temperature & Humidity Sensor
-![](prototype_wiring_photos/am2315_temperature_humidity_sensor_connectorized.jpeg)
+![](/prototype_wiring_photos/am2315_temperature_humidity_sensor_connectorized.jpeg)
 
 -------------------------------------------------------
 
 ## Connectorize the MHZ16 CO2 Sensor
 
-![](prototype_wiring_photos/mhz16_co2_sensor_connectorized.jpeg)
+![](/prototype_wiring_photos/mhz16_co2_sensor_connectorized.jpeg)
 
 -------------------------------------------------------
 

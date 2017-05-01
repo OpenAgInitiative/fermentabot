@@ -37,6 +37,9 @@
 ![](prototype_wiring_photos/idc_cable_2_conn.jpeg)
 ### IDC Cable 6-Conn
 ![](prototype_wiring_photos/idc_cable_6_conn.jpeg)
+### Install the resistor onto the temperature sensor
+![](prototype_wiring_photos/temperature sensor resistor.jpg)
+![](prototype_wiring_photos/temperature sensor soldered.jpg)
 
 -------------------------------------------------------
 

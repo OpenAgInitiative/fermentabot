@@ -35,6 +35,8 @@ The brain box has sensors for:
 
 # Prototype Wiring Instructions
 
+## Cut a hole in the lid of the Corrosion-Resistant Washdown Enclosure for the Raspberry Pi touchscreen and mount the touchscreen 
+
 ## Connectorize the AM2315 Temperature & Humidity Sensor
 ![](prototype_wiring_photos/am2315_temperature_humidity_sensor_connectorized.jpeg)
 

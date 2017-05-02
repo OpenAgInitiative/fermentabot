@@ -75,8 +75,8 @@ The brain box has sensors for:
 ### IDC Cable 6-Conn
 ![](prototype_wiring_photos/idc_cable_6_conn.jpeg)
 ### Install the resistor onto the temperature sensor
-![](prototype_wiring_photos/temperature sensor resistor.jpg)
-![](prototype_wiring_photos/temperature sensor soldered.jpg)
+![](https://github.com/OpenAgInitiative/fermentabot/blob/master/prototype/prototype_wiring_photos/temperature%20sensor%20resistor.jpg)
+![](https://github.com/OpenAgInitiative/fermentabot/blob/master/prototype/prototype_wiring_photos/temperature%20sensor%20soldered.jpg)
 
 -------------------------------------------------------
 

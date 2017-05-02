@@ -1,4 +1,4 @@
-#Prototype Fermentabot
+# Prototype Fermentabot
 The v1 fermentabot does environmental control and sensing for fermentation. It marries the [simple fermentation box](https://github.com/ariellejohnson/simple-fermentation-box) and other designs for fermentation environments and the OpenAg [brain box](https://github.com/OpenAgInitiative/openag_brain_box).
 
 The brain box has sensors for:
@@ -102,4 +102,11 @@ The brain box has sensors for:
 ### IDC Cable to LED
 ![](prototype_wiring_photos/idc_cable_to_led.jpeg)
 
+### connectorized heating mat and humidifier power cables to relay
+
 -------------------------------------------------------
+
+## Connect all of the Remaining Components
+![](prototype_wiring_photos/brain_box_connected.jpeg)
+
+![](prototype_wiring_photos/brain_box_connected_close_up.jpeg)
